@@ -18,7 +18,7 @@ Then, to run the tool, follow these steps:
 
 
 
-1\. Enter the 'App' Folder - by this README.txt file.
+1\. Enter the 'Builds\App' Folder - by this README.txt file.
 
 2\. Scroll down the folder to find the application TelemetryToolGUI.exe (this is the prototype to run).
 
