@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../TelemetryToolGUI/TelemetryToolGUI.csproj" Id="af39772e-4649-4287-9cf9-a9712cf1dd71" />
+  <Project Path="TelemetryTool#1.csproj" />
+</Solution>
