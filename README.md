@@ -30,6 +30,8 @@ Then, to run the tool, follow these steps:
 
 6\. To exit the tool, press the red cross at the top right, or Alt + F4.
 
+For more information regarding the nature of this project and tool, read through the .pdf report named FYP_Report :)
+
 
 
 =============================================================================================================================
